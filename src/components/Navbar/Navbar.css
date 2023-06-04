@@ -1,0 +1,14 @@
+.logo-image {
+    width: 48px;
+    height: auto;
+    cursor: pointer;
+}
+
+.header-items {
+    text-decoration: none;
+    color: "#3A1212";
+}
+
+.home {
+    border-bottom: 3px solid #FF2625;    
+}
